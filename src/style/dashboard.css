@@ -1,0 +1,25 @@
+/*=====================================
+    DASHBOARD
+====================================*/
+
+.headerDashboard{
+    background-color: #0046b6ce;
+    height: 70px;
+}
+
+.title{
+    font-size: 1.4rem;
+}
+
+.subtitle{
+    font-size: 1.4rem;
+}
+
+
+.card-hover {
+        transition: transform 0.2s ease;
+}
+
+.card-hover:hover {
+        transform: scale(0.95);
+}
